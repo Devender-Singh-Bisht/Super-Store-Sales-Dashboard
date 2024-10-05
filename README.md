@@ -30,15 +30,16 @@ Welcome to the **Super Store Sales Dashboard** project! This dashboard provides 
 ## Screenshots
 
 ### 1. Dashboard Screenshots
-![Super Store Sales Dashboard 2010]([./path_to_your_image/superstore_dashboard_2010.png](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(01).png))
 
-![Super Store Sales Dashboard 2010]([./path_to_your_image/superstore_dashboard_2010.png](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(02).png)
+![Image 1](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(01).png)
 
-![Super Store Sales Dashboard 2010]([./path_to_your_image/superstore_dashboard_2010.png](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(03).png)
+![Image 2](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(02).png)
 
-![Super Store Sales Dashboard 2010]([./path_to_your_image/superstore_dashboard_2010.png](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(04).png)
+![Image 3](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(03).png)
 
-![Super Store Sales Dashboard 2010]([./path_to_your_image/superstore_dashboard_2010.png](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(05).png)
+![Image 4](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(04).png)
+
+![Image 5](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(05).png)
 
 ---
 
