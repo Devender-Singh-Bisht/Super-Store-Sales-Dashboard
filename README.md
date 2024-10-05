@@ -29,7 +29,7 @@ Welcome to the **Super Store Sales Dashboard** project! This dashboard provides 
 
 ## Screenshots
 
-### 1. Dashboard Screenshots
+### Dashboard Screenshots
 
 ![Image 1](https://github.com/bisht293/Power-Bi-Projects/blob/main/Superstoresalesdash%20(01).png)
 
